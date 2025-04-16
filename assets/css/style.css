@@ -36,3 +36,57 @@ h1, h2, h3 {
 .photo-collage {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2em;
+    margin-top: 2em;
+}
+
+.project-card {
+    background-color: #ffffff;
+    border-radius: 16px;
+    border: 2px solid #ffb6c1;
+    padding: 1.5em;
+    box-shadow: 0 4px 8px rgba(0, 31, 63, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+}
+
+.project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1em;
+    border: 2px solid #ffb6c1;
+}
+
+.project-card h3 {
+    margin-top: 0;
+    color: #001f3f;
+}
+
+.project-card p {
+    color: #333;
+}
+
+.project-card a {
+    display: inline-block;
+    margin-top: 0.5em;
+    padding: 0.5em 1em;
+    background-color: #001f3f;
+    color: #fdf6e3;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-card a:hover {
+    background-color: #ffb6c1;
+    color: #001f3f;
+}
