@@ -7,13 +7,13 @@ permalink: /other/
 # Other Work
 <div class="project-grid">
 
-  <div class="project-card">
-    <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="College Sign">
-    <div class="project-card">
-      <h3>Imagining Justice Service Project</h3>
-      <p>Supported local refugee families through educational and community outreach. Opening speaker at final lecture in senior seminar, summarizing service and experiences. Utilized participating organization’s data in PowerBI to improve outreach and support.</p>
-    </div>
-  </div>
+
+<div class="project-card">
+  <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="Eckerd College sign">
+  <h3>Imagining Justice Service Project</h3>
+  <p>Supported local refugee families through educational and community outreach. Opening speaker at final lecture in senior seminar, summarizing service and experiences. Utilized participating organization’s data in PowerBI to improve outreach and support.</p>
+  <button class="modal-btn" data-modal="modal1">More Info</button>
+</div>
 
   <div class="project-card">
     <img src="https://via.placeholder.com/400x200.png?text=ML+Bio" alt="ML Bio Screenshot">
@@ -56,4 +56,32 @@ permalink: /other/
     </div>
   </div>
 
+</div>
+
+
+<!-- Modal 1 -->
+<div id="modal1" class="modal">
+  <div class="modal-content">
+    <span class="close" data-modal="modal1">&times;</span>
+    <h2>IJ service project</h2>
+    <p>Supported local refugee families through educational and community outreach. Opening speaker at final lecture in senior seminar, summarizing service and experiences. Utilized participating organization’s data in PowerBI to improve outreach and support</p>
+  </div>
+</div>
+
+<!-- Modal 2 -->
+<div id="modal2" class="modal">
+  <div class="modal-content">
+    <span class="close" data-modal="modal2">&times;</span>
+    <h2>Audio Design Portfolio</h2>
+    <p>This includes sound effects and original music design created for a children's theatre production. I worked with directors and stage crew to align sound cues with story beats, enhancing emotional moments and transitions.</p>
+  </div>
+</div>
+
+<!-- Modal 3 -->
+<div id="modal3" class="modal">
+  <div class="modal-content">
+    <span class="close" data-modal="modal3">&times;</span>
+    <h2>Environmental Zine</h2>
+    <p>Inspired by guerrilla publishing, this zine is a handmade booklet aimed at raising awareness about native plants, bird watching, and small-scale activism. It was distributed through local libraries and mutual aid events.</p>
+  </div>
 </div>
