@@ -15,7 +15,7 @@ Here are some things I've worked on:
     <div class="project-content">
       <h3>Avian Influenza Outbreak Analysis and Tracking</h3>
       <p>Traced entrance if HPAI into and within US, identifying monitoring locations that act as early warning signs for US outbreaks.</p>
-      <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">View Project</a>
+      <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">Github Repository</a>
       </div>
   </div>
 
