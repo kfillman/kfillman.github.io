@@ -8,7 +8,7 @@ permalink: /other/
 <div class="project-grid">
 
   <div class="project-card">
-    <img aling="left" src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="College Sign" width="600">
+    <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="College Sign" width="600">
     <h3>Imagining Justice Service Project</h3>
     <p>Supported local refugee families through educational and community outreach.
 Opening speaker at final lecture in senior seminar, summarizing service and experiences.
@@ -29,7 +29,7 @@ Utilized participating organization’s data in PowerBI to improve outreach and 
   </div>
 
   <div class="project-card">
-    <img alilgn="left" src="https://github.com/user-attachments/assets/8b23fb48-7c2b-445d-bfe2-a4d8cd180cd6" alt="Group Photo" width="600">
+    <img src="https://github.com/user-attachments/assets/8b23fb48-7c2b-445d-bfe2-a4d8cd180cd6" alt="Group Photo" width="600">
     <h3>Activator</h3>
     <p>Engaged with incoming first-year class of Eckerd College students over the span of a month to ensure their participation in community-building events and understanding of the college's recreational and academic programs. Worked in coordination with resident advisors, peer mentors, and college faculty to lead and manage events.</p>
   </div>
