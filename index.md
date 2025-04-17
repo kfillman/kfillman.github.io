@@ -30,16 +30,12 @@ title: Home
     <p><a href="https://linkedin.com/in/kfillman" target="_blank">Connect with me</a></p>
   </div>
   <div class="mini-card">
-    <p>🎸 Currently learning bass!</p>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Bass drawing" />
+    <p>Curretnly learning bass guitar</p>
   </div>
   <div class="mini-card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Trail_icon.png" alt="Trail icon" />
-    <p>Trail-walking enthusiast 🌲</p>
+    <img src="https://github.com/user-attachments/assets/0a985f47-a031-4bdf-acb0-e952acd70ee8" alt="Photo of Alta Via 1 Hiking" />
+    <p>Avid hiker</p>
   </div>
-  <div class="mini-card">
-    <p>🎭 Sound designer for youth theatre</p>
-  </div>
-    <div class="mini-card">
-    <p>:closed_book: Big Reader</p>
   </div>
 </div>
