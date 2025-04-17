@@ -8,12 +8,12 @@ permalink: /other/
 <div class="project-grid">
 
 
-<div class="project-card">
-  <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="Eckerd College sign">
-  <h3>Imagining Justice Service Project</h3>
-  <p>Supported local refugee families through educational and community outreach. Opening speaker at final lecture in senior seminar, summarizing service and experiences. Utilized participating organization’s data in PowerBI to improve outreach and support.</p>
-  <button class="modal-btn" data-modal="modal1">More Info</button>
-</div>
+  <div class="project-card">
+    <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="Eckerd College sign">
+    <h3>Imagining Justice Service Project</h3>
+    <p>Supported local refugee families through educational and community outreach. Opening speaker at final lecture in senior seminar, summarizing service and experiences. Utilized participating organization’s data in PowerBI to improve outreach and support.</p>
+    <button class="card-button modal-btn" data-modal="modal1">More Info</button>
+  </div>
 
   <div class="project-card">
     <img src="https://via.placeholder.com/400x200.png?text=ML+Bio" alt="ML Bio Screenshot">
