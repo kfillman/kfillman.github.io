@@ -56,6 +56,13 @@ permalink: /other/
     </div>
   </div>
 
+  <div class="project-card">
+    <img src="your-image.jpg" alt="Project Thumbnail">
+    <h3>Custom Data Report</h3>
+    <p>Summary of a personal analytics project exploring library data.</p>
+    <button class="modal-btn" data-modal="modal2">More Info</button>
+</div>
+
 </div>
 
 
