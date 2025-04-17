@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
+# Experience
 
 Here are some things I've worked on:
 
