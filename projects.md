@@ -6,8 +6,6 @@ permalink: /projects/
 
 # Experience
 
-Here are some things I've worked on:
-
 <div class="project-grid">
 
   <div class="project-card">
@@ -38,3 +36,22 @@ Here are some things I've worked on:
   </div>
 
 </div>
+
+
+# Education
+  <div class="project-card">
+    <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="University of Minnesota Logo">
+    <div class="project-content">
+      <h3>M.S. Bioinformatics and Computational Biology</h3>
+      <p>University of Minnesota</p>
+      <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">Github Repository</a>
+      </div>
+  </div>
+
+    <div class="project-card">
+    <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Eckerd College logo">
+    <div class="project-content">
+      <h3>BA in Biology with a minor in data science</h3>
+      <p>Eckerd College</p>
+    </div>
+  </div>
