@@ -115,3 +115,48 @@ h1, h2, h3 {
     border: 3px solid #E4F2FF;
     border-radius: 10px;
 }
+
+.mini-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5em;
+    margin-top: 2em;
+}
+
+.mini-card {
+    background-color: #ffffff;
+    border: 2px solid #E4F2FF;
+    border-radius: 16px;
+    box-shadow: 0 6px 12px rgba(0, 73, 137, 0.1);
+    padding: 1em;
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+
+.mini-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 73, 137, 0.15);
+}
+
+.mini-card img {
+    max-width: 48px;
+    height: auto;
+    margin-bottom: 0.5em;
+}
+
+.mini-card p {
+    margin: 0;
+    font-weight: bold;
+    color: #004989;
+}
+
+.mini-card a {
+    color: #004989;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.mini-card a:hover {
+    color: #E4F2FF;
+}
+
