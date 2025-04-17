@@ -1,26 +1,26 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #fdf6e3; /* light cream */
-    color: #001f3f; /* navy blue */
+    background-color: #FFFDF8; /* soft cream */
+    color: #004989; /* deep blue */
     margin: 0;
     padding: 0;
 }
 
 nav {
-    background-color: #001f3f; /* navy blue */
+    background-color: #004989; /* deep blue */
     padding: 1em;
     text-align: center;
 }
 
 nav a {
-    color: #fdf6e3; /* light cream */
+    color: #FFFDF8; /* soft cream */
     margin: 0 15px;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #ffb6c1; /* light pink */
+    color: #E4F2FF; /* light pink/blue */
 }
 
 .container {
@@ -30,17 +30,14 @@ nav a:hover {
 }
 
 h1, h2, h3 {
-    color: #001f3f; /* navy blue */
+    color: #004989; /* deep blue */
 }
 
-.photo-collage {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr
-}
+/* Project Grid + Cards */
 
 .project-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(750px, 1fr)); /* ~3x wider than 250px */
+    grid-template-columns: repeat(auto-fit, minmax(750px, 1fr)); /* wider layout */
     gap: 2em;
     margin-top: 2em;
 }
@@ -48,8 +45,8 @@ h1, h2, h3 {
 .project-card {
     background-color: #ffffff;
     border-radius: 16px;
-    border: 2px solid #ffb6c1; /* light pink */
-    box-shadow: 0 10px 25px rgba(0, 31, 63, 0.1);
+    border: 2px solid #E4F2FF; /* light pink/blue */
+    box-shadow: 0 10px 25px rgba(0, 73, 137, 0.1); /* soft blue shadow */
     overflow: hidden;
     display: flex;
     flex-direction: row;
@@ -58,14 +55,14 @@ h1, h2, h3 {
 
 .project-card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 16px 32px rgba(0, 31, 63, 0.2);
+    box-shadow: 0 16px 32px rgba(0, 73, 137, 0.2);
 }
 
 .project-card img {
     width: 40%;
     height: auto;
     object-fit: cover;
-    border-right: 2px solid #ffb6c1;
+    border-right: 2px solid #E4F2FF;
 }
 
 .project-content {
@@ -77,7 +74,7 @@ h1, h2, h3 {
 }
 
 .project-content h3 {
-    color: #001f3f; /* navy blue */
+    color: #004989;
     margin-top: 0;
 }
 
@@ -90,8 +87,8 @@ h1, h2, h3 {
 .project-content a {
     align-self: start;
     padding: 0.5em 1em;
-    background-color: #001f3f;
-    color: #fdf6e3;
+    background-color: #004989;
+    color: #FFFDF8;
     border-radius: 8px;
     text-decoration: none;
     font-weight: bold;
@@ -99,6 +96,22 @@ h1, h2, h3 {
 }
 
 .project-content a:hover {
-    background-color: #ffb6c1;
-    color: #001f3f;
+    background-color: #E4F2FF;
+    color: #004989;
+}
+
+/* Optional: Homepage text/photo layout */
+
+.home-intro {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2em;
+    margin-top: 1em;
+}
+
+.home-intro img {
+    max-width: 100%;
+    border: 3px solid #E4F2FF;
+    border-radius: 10px;
 }
