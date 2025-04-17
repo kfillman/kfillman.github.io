@@ -18,10 +18,24 @@ One thing I'm rather proud of is a peice of feedback from my Master's defence: "
 
 Alongside my professional endevors, I find myself quite busy. I spend my freetime biking, running, and walking local trails. I work at a local theatre part-time as a sound designer for theatre for young audiences. I read often and find myself at the library weekly. I'm currently learning bass. Importantly, I'm looking to re-engage in activism as my schedule becomes more stable. Each person has a unique blend of experience and skills, I aim to be as well-rounded as possible.
 
-### Contact
-Connect with me on [LinkedIn](https://linkedin.com/in/kfillman)
-
 </div>
 
   <img src="https://github.com/user-attachments/assets/98047f33-7fbd-463d-8fb3-9800be755ab2" alt="headshot" width="400">
+</div>
+
+<div class="mini-card-grid">
+  <div class="mini-card">
+    <img src="https://github.com/user-attachments/assets/98047f33-7fbd-463d-8fb3-9800be755ab2" alt="Headshot" />
+    <p><a href="https://linkedin.com/in/kfillman" target="_blank">LinkedIn</a></p>
+  </div>
+  <div class="mini-card">
+    <p>🎸 Currently learning bass!</p>
+  </div>
+  <div class="mini-card">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Trail_icon.png" alt="Trail" />
+    <p>Trail-walking enthusiast 🌲</p>
+  </div>
+  <div class="mini-card">
+    <p>🎭 Sound designer for youth theatre</p>
+  </div>
 </div>
