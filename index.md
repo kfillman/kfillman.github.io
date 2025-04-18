@@ -2,11 +2,11 @@
 layout: default
 title: Home
 ---
-# Welcome!
+# Kathryn Fillman
 <div class="home-intro">
   <div class="home-text">
 
-<p>website in progress</p>
+<p>Welcome to my personal site, where I'm showwing off some of my experiences. It's currently under construction, but check back later for a more polished site.</p>
 
 </div>
 
@@ -27,18 +27,6 @@ title: Home
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
     <div>Check out my code</div>
     <a href="https://github.com/kfillman" target="_blank">GitHub</a>
-  </div>
-
-  <div class="mini-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
-    <div>Follow for updates</div>
-    <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
-  </div>
-
-  <div class="mini-card">
-    <img src="https://via.placeholder.com/48.png?text=🌱" alt="Blog">
-    <div>Ecology Blog</div>
-    <a href="https://yourblog.com" target="_blank">Read More</a>
   </div>
 
 </div>
