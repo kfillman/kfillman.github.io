@@ -7,11 +7,16 @@
 </head>
 <body>
     <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/projects' | relative_url }}">Experience</a>
-        <a href="{{ '/other' | relative_url }}">Other</a>
-        <a href="{{ '/about' | relative_url }}">About Me</a>
-    </nav>
+      <div class="nav-content">
+          <a href="/">
+              <img src="/assets/images/logo.png" alt="Site Logo" class="logo">
+          </a>
+          <div class="nav-links">
+              <a href="{{ '/' | relative_url }}">Home</a>
+              <a href="{{ '/projects' | relative_url }}">Experience</a>
+              <a href="{{ '/other' | relative_url }}">Other</a>
+              <a href="{{ '/about' | relative_url }}">About Me</a>
+          </nav>
     <div class="container">
         {{ content }}
     </div>
