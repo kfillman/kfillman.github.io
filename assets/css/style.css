@@ -213,47 +213,28 @@ nav {
 }
 
 .home-intro {
-    max-width: 400px;
-    margin: 2em auto;
-    padding: 1em;
-    color: #004989;
-}
-
-.home-logo {
-    display: block;
-    max-width: 160px;
-    margin: 0 auto 2em auto;
-}
-
-.bio-container {
     display: flex;
     align-items: center;
-    gap: 2em;
-    margin-bottom: 2em;
+    justify-content: center;
+    gap: 1.5em;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 0 1em;
     flex-wrap: wrap;
 }
 
-.bio-photo {
-    width: 200px;
-    height: auto;
-    border-radius: 16px;
+.home-intro img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
     object-fit: cover;
-    flex-shrink: 0;
-    box-shadow: 0 4px 12px rgba(0, 73, 137, 0.2);
+    border: 3px solid #004989;
 }
 
-.bio-text {
+.home-blurb {
     flex: 1;
-    min-width: 240px;
-}
-
-.bio-text h2 {
-    margin-top: 0;
-    font-size: 1.8em;
-}
-
-.bio-text p {
-    font-size: 1.05em;
+    max-width: 500px;
+    color: #004989;
+    font-size: 1.1em;
     line-height: 1.6;
-    margin-top: 0.5em;
 }
