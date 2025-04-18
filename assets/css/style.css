@@ -43,12 +43,12 @@ h1, h2, h3 {
     align-items: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden;
-    height: 150px; /* Reduced card height */
+    height: 200px; /* Reduced card height */
 }
 
 .project-card-img {
     flex: 1;
-    max-width: 33%; /* Take up 1/3 of the space */
+    max-width: 40%; /* Take up 1/3 of the space */
     padding-right: 1em;
 }
 
@@ -60,7 +60,7 @@ h1, h2, h3 {
 
 .project-card-text {
     flex: 2;
-    max-width: 66%; /* Take up 2/3 of the space */
+    max-width: 60%; /* Take up 2/3 of the space */
 }
 
 .project-card-text h3 {
