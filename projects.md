@@ -11,7 +11,7 @@ permalink: /projects/
     <img src="https://via.placeholder.com/400x300?text=Project+1" alt="Project 1">
   </div>
   <div class="project-content">
-    <h3>Genealogy App</h3>
+    <h3>peepeepoopoo</h3>
     <p>A full-stack Django project to manage family history data.</p>
     <a href="https://example.com" target="_blank">Learn More</a>
   </div>
