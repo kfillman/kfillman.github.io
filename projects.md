@@ -33,38 +33,14 @@ permalink: /projects/
   </div>
 </div>
 
-
- <div class="project-card">
-    <div class="project-card-img">
-      <img src="https://via.placeholder.com/300x200?text=Project+1" alt="Project 1">
-    </div>
-    <div class="project-card-text">
-      <h3>Genealogy App</h3>
-      <p>A full-stack Django project to manage family history data.</p>
-      <a href="https://example.com" target="_blank">Learn More</a>
-    </div>
+<div class="project-card">
+  <img src="https://via.placeholder.com/300x200?text=Project+2" alt="Project 2 Image">
+  <div class="project-content">
+    <h2>Project</h2>
+    <p>more words</p>
+    <a href="https://github.com/yourusername/ecoviz" target="_blank">View Project</a>
   </div>
-
-  <div class="project-card">
-    <img src="https://via.placeholder.com/400x250.png?text=EcoViz" alt="EcoViz Screenshot">
-    <div class="project-content">
-      <h3>EcoViz</h3>
-      <p>Interactive data visualizations using environmental APIs and weather patterns.</p>
-      <a href="https://github.com/yourusername/ecoviz" target="_blank">View Project</a>
-    </div>
-  </div>
-
-  <div class="project-card">
-    <img src="https://via.placeholder.com/400x250.png?text=ML+Bio" alt="ML Bio Screenshot">
-    <div class="project-content">
-      <h3>ML Bio</h3>
-      <p>Machine learning models trained on genomics and bioinformatics datasets.</p>
-      <a href="https://github.com/yourusername/ml-bio" target="_blank">View Project</a>
-    </div>
-  </div>
-
 </div>
-
 
 # Education
 <div class="project-card">
