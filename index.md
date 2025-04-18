@@ -5,12 +5,12 @@ title: Home
 
 <!-- Logo -->
 <div style="text-align: center; margin-top: 2em;">
-  <img src="https://via.placeholder.com/300x100.png?text=MY+LOGO" alt="Site Logo" style="max-width: 300px; height: auto;">
+  <img src="/assets/images/logo2.png" alt="Site Logo" style="max-width: 300px; height: auto;">
 </div>
 
 <!-- Bio Section -->
 <div class="home-intro">
-  <img src="https://via.placeholder.com/100.png?text=Me" alt="Profile Photo">
+  <img src="/assets/images/headshot.jpg" alt="Profile Photo">
   <div class="home-blurb">
     <p>
       Hi, I'm Kathryn — I'll have more to say at a later date. At the moment, this site is under construction.
