@@ -27,7 +27,7 @@ permalink: /other/
   <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="Eckerd College Sign">
   <div class="project-content">
     <h3>GIRS</h3>
-    <p>research station establishment/p>
+    <p>research station establishment</p>
     <button class="card-button">More Info</button>
   </div>
 </div>
