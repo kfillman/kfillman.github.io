@@ -1,4 +1,4 @@
----
+P---
 layout: default
 title: Projects
 permalink: /projects/
@@ -18,9 +18,9 @@ permalink: /projects/
 <div class="project-card">
   <img src="" alt="Project Screenshot">
   <div class="project-card-content">
-    <h3>HPAI Tracking</h3>
-    <p>Traced entrance if HPAI into and within US, identifying monitoring locations that act as early warning signs for US outbreaks.</p>
-    <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">Github Repository</a>
+    <h3>One Piece Character Appearance Predictions</h3>
+    <p>Attempting to predict the episode a One Piece character will appear in the anime based on the chapter they appear in the manga.</p>
+    <a href="https://github.com/kfillman/OP_Character_Appearance_Predictions" target="_blank">Github Repository</a>
   </div>
 </div>
 
