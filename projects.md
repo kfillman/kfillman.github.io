@@ -19,12 +19,12 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-image">
-    <img src="https://via.placeholder.com/400x300?text=Project+2" alt="Project 2">
+    <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Project Screenshot">
   </div>
   <div class="project-content">
-    <h3>EcoViz</h3>
-    <p>Environmental visualizations using weather APIs and satellite data.</p>
-    <a href="https://example.com" target="_blank">Learn More</a>
+    <h3>HPAI Tracking</h3>
+    <p>Traced entrance if HPAI into and within US, identifying monitoring locations that act as early warning signs for US outbreaks.</p>
+    <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">Github Repository</a>
   </div>
 </div>
 
