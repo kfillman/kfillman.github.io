@@ -8,17 +8,6 @@ permalink: /projects/
 
 <div class="project-card">
   <div class="project-image">
-    <img src="https://via.placeholder.com/400x300?text=Project+1" alt="Project 1">
-  </div>
-  <div class="project-content">
-    <h3>peepeepoopoo</h3>
-    <p>A full-stack Django project to manage family history data.</p>
-    <a href="https://example.com" target="_blank">Learn More</a>
-  </div>
-</div>
-
-<div class="project-card">
-  <div class="project-image">
     <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Project Screenshot">
   </div>
   <div class="project-content">
