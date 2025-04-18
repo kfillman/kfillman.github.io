@@ -186,31 +186,28 @@ nav {
 .mini-card {
     background-color: #E4F2FF;
     border-radius: 16px;
-    padding: 1em;
+    padding: 0.75em;
     box-shadow: 0 4px 10px rgba(0, 73, 137, 0.15);
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
     text-align: center;
-    height: 200px;
+    height: 140px; /* was 200px */
+    justify-content: space-between;
 }
 
 .mini-card img {
-    width: 48px;
-    height: 48px;
+    width: 36px;
+    height: 36px;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.25em;
 }
 
 .mini-card a {
     color: #004989;
     font-weight: bold;
+    font-size: 0.9em;
     text-decoration: none;
-    margin-top: 0.5em;
-}
-
-.mini-card a:hover {
-    color: #003366;
+    margin-top: 0.25em;
 }
