@@ -7,10 +7,8 @@ permalink: /projects/
 # Experience
 
 <div class="project-card">
-  <div class="project-image">
-    <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Project Screenshot">
-  </div>
-  <div class="project-content">
+  <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Project Screenshot">
+  <div class="project-card-content">
     <h3>HPAI Tracking</h3>
     <p>Traced entrance if HPAI into and within US, identifying monitoring locations that act as early warning signs for US outbreaks.</p>
     <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">Github Repository</a>
@@ -18,13 +16,11 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <div class="project-image">
-    <img src="https://via.placeholder.com/400x300?text=Project+3" alt="Project 3">
-  </div>
-  <div class="project-content">
-    <h3>ML Bio</h3>
-    <p>Machine learning models trained on biological datasets.</p>
-    <a href="https://example.com" target="_blank">Learn More</a>
+  <img src="" alt="Project Screenshot">
+  <div class="project-card-content">
+    <h3>HPAI Tracking</h3>
+    <p>Traced entrance if HPAI into and within US, identifying monitoring locations that act as early warning signs for US outbreaks.</p>
+    <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">Github Repository</a>
   </div>
 </div>
 
@@ -72,19 +68,18 @@ permalink: /projects/
 
 
 # Education
-  <div class="project-card">
-    <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="University of Minnesota Logo">
-    <div class="project-content">
-      <h3>M.S. Bioinformatics and Computational Biology</h3>
-      <p>University of Minnesota</p>
-      <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">Github Repository</a>
-      </div>
+<div class="project-card">
+  <img src=https://github.com/user-attachments/assets/6bb09b26-e5f5-46f8-8bcd-45012b0e33db" alt="University of Minnesota Statue">
+  <div class="project-card-content">
+    <h3>University of Minnesota</h3>
+    <p>M.S. Bioinformatics and Computational Biology</p>
   </div>
+</div>
 
-    <div class="project-card">
-    <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Eckerd College logo">
-    <div class="project-content">
-      <h3>BA in Biology with a minor in data science</h3>
-      <p>Eckerd College</p>
-    </div>
+<div class="project-card">
+  <img src=https://github.com/user-attachments/assets/6bb09b26-e5f5-46f8-8bcd-45012b0e33db" alt="University of Minnesota Statue">
+  <div class="project-card-content">
+    <h3>Eckerd College</h3>
+    <p>B.A. in Biology with a Data Science minor</p>
   </div>
+</div>
