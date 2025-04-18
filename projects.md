@@ -53,7 +53,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src=""/assets/images/ec_grad_pic.jpg" alt="Eckerd College Sign">
+  <img src="/assets/images/ec_grad_pic.jpg" alt="Eckerd College Sign">
   <div class="project-content">
     <h3>Eckerd College</h3>
     <p>B.A. in Biology with a Data Science minor</p>
