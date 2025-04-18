@@ -13,7 +13,7 @@ title: Home
   <img src="https://via.placeholder.com/100.png?text=Me" alt="Profile Photo">
   <div class="home-blurb">
     <p>
-      Hi, I'm Kathryn — a data and environmental science enthusiast with a love for ecology, bioinformatics, and building beautiful, useful web tools. Welcome to my digital garden.
+      Hi, I'm Kathryn — I'll have more to say at a later date. At the moment, this site is under construction.
     </p>
   </div>
 </div>
