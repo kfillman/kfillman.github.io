@@ -181,3 +181,33 @@ h1, h2, h3 {
 .link-card a:hover {
     text-decoration: underline;
 }
+
+nav {
+    background-color: #004989;
+    padding: 1em;
+}
+
+.nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+    border-radius: 8px;
+}
+
+.nav-links a {
+    color: #FFFDF8;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-links a:hover {
+    color: #E4F2FF;
+}
