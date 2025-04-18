@@ -58,37 +58,37 @@ h1, h2, h3 {
     height: auto;
 }
 
-.project-card-text {
-    flex: 2;
-    max-width: 60%; /* Take up 2/3 of the space */
-}
-
-.project-card-text h3 {
-    margin-top: 0;
+.project-content {
+    flex: 1;
+    padding: 1em 1.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     color: #004989;
-    font-size: 1.2em;
 }
 
-.project-card-text p {
+.project-content h3 {
+    margin: 0 0 0.5em 0;
+    font-size: 1.4em;
     color: #004989;
-    margin: 0.5em 0;
 }
 
-.project-card-text a {
+.project-content p {
+    margin: 0 0 1em 0;
+}
+
+.project-content a {
     color: #004989;
     text-decoration: none;
     font-weight: bold;
     border: 2px solid #004989;
-    padding: 0.5em 1em;
+    padding: 0.4em 0.8em;
     border-radius: 5px;
+    align-self: start;
+    transition: background-color 0.2s, color 0.2s;
 }
 
-.project-card-text a:hover {
+.project-content a:hover {
     background-color: #004989;
     color: #FFFDF8;
-}
-
-.project-card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
 }
