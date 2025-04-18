@@ -25,19 +25,19 @@ title: Home
   <div class="mini-card">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
     <div>LinkedIn</div>
-    <a href="https://linkedin.com" target="_blank">Connect</a>
+    <a href="https://linkedin.com/in/kfillman" target="_blank">Connect</a>
   </div>
 
   <div class="mini-card">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
     <div>GitHub</div>
-    <a href="https://github.com" target="_blank">Follow</a>
+    <a href="https://github.com/kfillman" target="_blank">Follow</a>
   </div>
 
   <div class="mini-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
+    <img src="" alt="tbd social media">
     <div>Twitter</div>
-    <a href="https://twitter.com" target="_blank">Follow</a>
+    <a href="" target="_blank">tbd social media</a>
   </div>
 
 </div>
