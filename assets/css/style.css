@@ -42,6 +42,12 @@ h1, h2, h3 {
     overflow: hidden;
     margin-bottom: 2em;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+
+}
+
+.project-card:hover {
+    transform: scale(1.01);
 }
 
 .project-card img {
@@ -72,11 +78,17 @@ h1, h2, h3 {
 }
 
 .project-content a {
-    color: #004989;
     font-weight: bold;
-    text-decoration: underline;
+    color: #004989;
+    text-decoration: none;
+    border: 1px solid #004989;
+    padding: 0.4em 0.8em;
+    border-radius: 8px;
+    background-color: #FFFDF8;
+    align-self: flex-start;
 }
 
 .project-content a:hover {
-    color: #002e5c;
+    background-color: #004989;
+    color: #FFFDF8;
 }
