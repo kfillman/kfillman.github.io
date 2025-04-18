@@ -15,19 +15,30 @@ title: Home
 
 ## Highlights
 
-<h2>Connect With Me</h2>
+<div class="card-grid">
 
-<div class="link-card">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo">
-  <a href="https://linkedin.com/in/kfillman" target="_blank">LinkedIn</a>
-</div>
+  <div class="mini-card">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+    <div>Connect with me</div>
+    <a href="https://www.linkedin.com/in/kfillman" target="_blank">LinkedIn</a>
+  </div>
 
-<div class="link-card">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="GitHub logo">
-  <a href="https://github.com/kfillman" target="_blank">GitHub</a>
-</div>
+  <div class="mini-card">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
+    <div>Check out my code</div>
+    <a href="https://github.com/kfillman" target="_blank">GitHub</a>
+  </div>
 
-<div class="link-card">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Instagram logo">
-  <a href="https://instagram.com/yourhandle" target="_blank">Instagram</a>
+  <div class="mini-card">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
+    <div>Follow for updates</div>
+    <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
+  </div>
+
+  <div class="mini-card">
+    <img src="https://via.placeholder.com/48.png?text=🌱" alt="Blog">
+    <div>Ecology Blog</div>
+    <a href="https://yourblog.com" target="_blank">Read More</a>
+  </div>
+
 </div>
