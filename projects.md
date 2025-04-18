@@ -27,7 +27,7 @@ permalink: /projects/
 <div class="project-card">
   <img class="project-image" src="https://github.com/user-attachments/assets/e0461123-9b3f-4db3-b06d-3a1b8bf71526" alt="image">
   <div class="project-content">
-    <h2 class="project-title">Sample name</h2>
+    <h2 class="project-title">Marketing Intern</h2>
     <p class="project-description">words idk</p>
     <a class="project-link" href="https://example.com/ecoviz" target="_blank">View Project</a>
   </div>
@@ -43,9 +43,10 @@ permalink: /projects/
 </div>
 
 # Education
+
 <div class="project-card">
   <img src="/assets/images/umn.jpg" alt="University of Minnesota Statue">
-  <div class="project-card-content">
+  <div class="project-content">
     <h3>University of Minnesota</h3>
     <p>M.S. Bioinformatics and Computational Biology</p>
   </div>
@@ -53,7 +54,7 @@ permalink: /projects/
 
 <div class="project-card">
   <img src=""/assets/images/ec_grad_pic.jpg"" alt="University of Minnesota Statue">
-  <div class="project-card-content">
+  <div class="project-content">
     <h3>Eckerd College</h3>
     <p>B.A. in Biology with a Data Science minor</p>
   </div>
