@@ -45,7 +45,7 @@ title: Home
   </div>
 
   <div class="mini-card">
-    <img src="av1-hiking.JPEG" alt="tbd social media">
+    <img src="av1-lake.jpg" alt="tbd social media">
     <div>Avid hiker</div>
   </div>
 
