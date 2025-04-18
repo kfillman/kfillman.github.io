@@ -3,36 +3,31 @@ layout: default
 title: About Me
 permalink: /about/
 ---
-# Welcome!
-<div class="home-intro">
-  <div class="home-text">
+# About me
 
-<p>My high school Biology professor gave us a challenge, using the known components of DNA we had to find the structure. While it was an oversimplification of the actual problems faced by researchers, it challenged us to look at the problem in many different ways. As a lover of puzzles, this has always stuck with me. It made me realize that science (and life) is a puzzle we continue to solve.</p>
-<p>Growing up, I was always fascinated with things in the biological sciences. I played with microscopes, read criminology textbooks, and wondered at animals and their habitats. As I got older, my interests became more specific. Mainly, I found I was interested in the environment and how animals interact with it. Throughout my time learning about such topics, I realized how intertwined technology and science has become, prompting my interest in bioinformatics. My classes in programming reminded me much of a puzzle; the intended outcome is known but the pieces needed are not. This is what data in the modern world is; we have the peices of (sometimes many) puzzles mixed together, just waiting to be made sense of. Being able to pursue and solve complex challenges is what motivates me.</p>
-<p>This passion for puzzles and discovery naturally led me to the world of data science and analytics. My academic background in biology and bioinformatics gave me the tools to approach complex systems—from ecological interactions to genomic datasets—with curiosity and precision. As I explored programming and statistical analysis, I saw how the same problem-solving mindset applied not only to scientific research but also to the business world. In marketing analytics and data science, I’ve found a space where data tells stories, reveals patterns, and drives decisions. Whether interpreting consumer behavior or decoding biological systems, I’m drawn to the challenge of making sense of complexity and using data to uncover insights that create meaningful impact.</p>
+## Writing Expcerpts from Various Personal Statements I Feel Describe Me Well
 
-<p>I belive my greatest strenght is my curiosity. I am eager to learn and find myself always asking questions.</p>
+<p><i>"My high school Biology professor gave us a challenge, using the known components of DNA we had to find the structure. While it was an oversimplification of the actual problems faced by researchers, it challenged us to look at the problem in many different ways. As a lover of puzzles, this has always stuck with me. It made me realize that science (and life) is a puzzle we continue to solve.</i></p>
+
+<p><i>Growing up, I was always fascinated with things in the biological sciences. I played with microscopes, read criminology textbooks, and wondered at animals and their habitats. As I got older, my interests became more specific. Mainly, I found I was interested in the environment and how animals interact with it. Throughout my time learning about such topics, I realized how intertwined technology and science has become, prompting my interest in bioinformatics. My classes in programming reminded me much of a puzzle; the intended outcome is known but the pieces needed are not. This is what data in the modern world is; we have the peices of (sometimes many) puzzles mixed together, just waiting to be made sense of. Being able to pursue and solve complex challenges is what motivates me.</i></p>
+
+<p><i>This passion for puzzles and discovery naturally led me to the world of data science and analytics. My academic background in biology and bioinformatics gave me the tools to approach complex systems—from ecological interactions to genomic datasets—with curiosity and precision. As I explored programming and statistical analysis, I saw how the same problem-solving mindset applied not only to scientific research but also to the business world. In marketing analytics and data science, I’ve found a space where data tells stories, reveals patterns, and drives decisions. Whether interpreting consumer behavior or decoding biological systems, I’m drawn to the challenge of making sense of complexity and using data to uncover insights that create meaningful impact."</i></p>
+
+<p>- Graduate personal statement for UMN (2022)</p>
+
+
+I belive my greatest strenght is my curiosity. I am eager to learn and find myself always asking questions. I am unafriad to try and find failure to be a great teacher. Below are excerpts from my undergraduate personal statement.
+
+<p><i>"I seek fear and the discomfort it brings, daily. It starts small: talking to new people, learning a new skill, or even visiting a new place. None of these things are dangerous per say, but they were once outside of my comfort zone. I’ve come to realize life begins outside of the comfort zone.</i></p>
+<p><i>The first time I remember seeking this kind of discomfort was my freshman year of high school. My friend had expressed interest in the diving team, but she didn’t want to go alone given it was halfway through the season. I had never dived before, was terrified of going off a diving board, and didn’t want to embarrass myself in front of strangers and friends. Together, my friend and I walked into the pool area. It only took a few seconds for what felt like fifty girls to rush over to begin introducing themselves and asking us questions. The dive team introduced themselves and taught us how to dive. Plummeting into the depths of the pool and knowing how silly I looked was frightening and embarrassing. Each time entered the water I risked smacking the surface and hurting myself, each time becoming braver and feeling more confident in my dives. I realized expanding my horizons had led me to new friendships and experiences that taught me more about myself.</i></p>
+My sophomore year I joined costume crew, a small yet important subset of stage crew. I was confident in my sewing ability, though in any other part of the stage crew, it was clear I was a year behind my peers. Within a few months, I was at the same pace as my sophomore counterparts and exceeding what I had thought my boundaries were. The first time I felt I belonged was my second show. I had worked for weeks altering, sewing, and repairing costumes. The final night of the show during pre-show ritual, we sat in a circle as my tech director gave out awards for the show. The most important award given out is ‘The Bit Further’, signifying a student went beyond set expectations. Hearing my name called, I stood up in disbelief. A group of people I barely knew had voted for me to be honored. A plethora of new friends and experiences made me realize I liked being outside of my comfort zone, pushing my skills to new limits.[...]While I am still learning more about fear, these moments defined my relationship with it. They are the cornerstones for how I live my life. These experiences started small, but I’m always looking for my next adventure. The kind that scares me."</i></p>
+<p>- Undergraduate personal statement (2018)</p>
+
+<p><i>I didn’t grow up wanting to be a scientist. I liked the concept of solving life’s mysteries, but many of the science classes I’d taken were memorization-based with little application. I had no interest in the importance of understanding photosynthesis when there was no discernible reason for its usage. One day, however, my high school biology teacher had our class do an activity: using the known components of DNA and their shapes, find the molecule’s three-dimensional structure. Having seen the structure of DNA on posters, looking through textbooks, and in Jurassic Park, I knew this was a rather quick exercise. We had small cut-outs of nucleotides, sugars, and phosphates that would eventually fit together, be taped, and somehow contorted into a double helix shape. Looking over the pieces, I realized I was looking at a puzzle. In that one second, the trajectory of my life changed. Science was no longer a bland concept that required memorization, but a number of complex connections between organisms, atoms, and their environment. For the first time, I realized these faceless facts of memorization were laying the foundation for understanding and solving the problems that lay ahead. I went home that day and began to search for extracurricular programs that would allow me to explore this newfound interest. I found two programs from the Shedd Aquarium that were specifically for highschoolers. One program was a lake ecology trip that entailed creating a proof of concept and testing it over a week-long period on a camping trip, as well as contributing to a decade-long study on frog microbiomes. The second program was a marine biology trip that aimed to introduce students to different types of data collection at sea. I participated in both of these programs in the two summers following that experience. From these experiences I realized that I had far more interest in our data analysis than my peers. I felt it was the axiom of our time, namely, finally finding out if our experiments had worked.  While my young peers seemed to feel it was the boring, necessary requirement of our time, to me, the analysis was even more fascinating than the data collection itself.</i></p>
+
+<p><i>Growing up, I was always playing logic and card games. My family loved and encouraged this, as I often completed logic puzzles with my dad on the family computer. My favorite were cross logic games, where given a set of clues, one needs to match three or more variables to each other. This taught me to consider the consequences of multiple choices in succession of each other. In other words, I was thinking multiple steps ahead. This skill became integral to my first year of college, when I became a key asset to a student group looking to establish a remote research station outside of the country. I was put in charge of logistics and worked on items such as cost analysis, plans for unfavorable eventualities, and cultural teachings for the team. With very little to no experience in these roles, I eagerly accepted them.</i></p>
+<p>- Graduate personal statement (2022)</p>
+
 <p>One thing I'm rather proud of is a peice of feedback from my Master's defence: "You have thought through every aspect of this quite thouroughly". I like to not only be prepared, but also able to justify desicions made. I find this an imnportant skill within my professional life.</p>
 
-</div>
-
   <img src="https://github.com/user-attachments/assets/98047f33-7fbd-463d-8fb3-9800be755ab2" alt="headshot" width="400">
-</div>
-
-## Highlights
-
-<div class="mini-card-grid">
-  <div class="mini-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn icon" />
-    <p><a href="https://linkedin.com/in/kfillman" target="_blank">Connect with me</a></p>
-  </div>
-  <div class="mini-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Bass drawing" />
-    <p>Curretnly learning bass guitar</p>
-  </div>
-  <div class="mini-card">
-    <img src="https://github.com/user-attachments/assets/0a985f47-a031-4bdf-acb0-e952acd70ee8" alt="Photo of Alta Via 1 Hiking" />
-    <p>Avid hiker</p>
-  </div>
-  </div>
-</div>
