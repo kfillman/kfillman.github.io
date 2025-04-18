@@ -40,4 +40,13 @@ title: Home
     <a href="" target="_blank">tbd social media</a>
   </div>
 
+  <div class="mini-card">
+    <div>I'm currently learning to play bass guitar!</div>
+  </div>
+
+  <div class="mini-card">
+    <img src="av1-hiking.JPEG" alt="tbd social media">
+    <div>Avid hiker</div>
+  </div>
+
 </div>
