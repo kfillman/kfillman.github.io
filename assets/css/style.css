@@ -94,3 +94,55 @@ h1, h2, h3 {
     background-color: #004989;
     color: #FFFDF8;
 }
+
+.card-button {
+    background-color: #004989;
+    color: #FFFDF8;
+    border: none;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    width: fit-content;
+}
+
+.card-button:hover {
+    background-color: #003366;
+}
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 73, 137, 0.8);
+}
+
+.modal-content {
+    background-color: #FFFDF8;
+    margin: 10% auto;
+    padding: 2em;
+    border: 4px solid #004989;
+    border-radius: 16px;
+    width: 80%;
+    max-width: 600px;
+    color: #004989;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+}
+
+.close {
+    color: #004989;
+    float: right;
+    font-size: 1.5em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #ff0000;
+}
