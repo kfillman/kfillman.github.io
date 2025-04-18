@@ -44,7 +44,7 @@ permalink: /projects/
 
 # Education
 <div class="project-card">
-  <img src=https://github.com/user-attachments/assets/6bb09b26-e5f5-46f8-8bcd-45012b0e33db" alt="University of Minnesota Statue">
+  <img src="/assets/images/umn.jpg" alt="University of Minnesota Statue">
   <div class="project-card-content">
     <h3>University of Minnesota</h3>
     <p>M.S. Bioinformatics and Computational Biology</p>
@@ -52,7 +52,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src=https://github.com/user-attachments/assets/6bb09b26-e5f5-46f8-8bcd-45012b0e33db" alt="University of Minnesota Statue">
+  <img src=""/assets/images/ec_grad_pic.jpg"" alt="University of Minnesota Statue">
   <div class="project-card-content">
     <h3>Eckerd College</h3>
     <p>B.A. in Biology with a Data Science minor</p>
