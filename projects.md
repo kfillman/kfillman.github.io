@@ -7,21 +7,21 @@ permalink: /projects/
 # Experience
 
 <div class="project-card">
-  <div class="project-card-img">
-    <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Project Screenshot">
+  <div class="project-image">
+    <img src="https://via.placeholder.com/400x300?text=Project+1" alt="Project 1">
   </div>
-  <div class="project-card-text">
-    <h3>HAPI Tracking</h3>
+  <div class="project-content">
+    <h3>Genealogy App</h3>
     <p>A full-stack Django project to manage family history data.</p>
     <a href="https://example.com" target="_blank">Learn More</a>
   </div>
 </div>
 
 <div class="project-card">
-  <div class="project-card-img">
-    <img src="https://via.placeholder.com/300x200?text=Project+2" alt="Project 2">
+  <div class="project-image">
+    <img src="https://via.placeholder.com/400x300?text=Project+2" alt="Project 2">
   </div>
-  <div class="project-card-text">
+  <div class="project-content">
     <h3>EcoViz</h3>
     <p>Environmental visualizations using weather APIs and satellite data.</p>
     <a href="https://example.com" target="_blank">Learn More</a>
@@ -29,10 +29,10 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <div class="project-card-img">
-    <img src="https://via.placeholder.com/300x200?text=Project+3" alt="Project 3">
+  <div class="project-image">
+    <img src="https://via.placeholder.com/400x300?text=Project+3" alt="Project 3">
   </div>
-  <div class="project-card-text">
+  <div class="project-content">
     <h3>ML Bio</h3>
     <p>Machine learning models trained on biological datasets.</p>
     <a href="https://example.com" target="_blank">Learn More</a>
