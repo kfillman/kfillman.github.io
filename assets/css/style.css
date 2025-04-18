@@ -212,47 +212,48 @@ nav {
     margin-top: 0.25em;
 }
 
-.home-header {
-    display: flex;
-    justify-content: center;
-    padding-top: 1em;
-    margin-bottom: 1em;
+.home-intro {
+    max-width: 900px;
+    margin: 2em auto;
+    padding: 1em;
+    color: #004989;
 }
 
 .home-logo {
-    height: 80px;
-    width: auto;
+    display: block;
+    max-width: 160px;
+    margin: 0 auto 2em auto;
 }
 
-.home-hero {
+.bio-container {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
-    justify-content: center;
-    margin-bottom: 2em;
     gap: 2em;
+    margin-bottom: 2em;
+    flex-wrap: wrap;
 }
 
-.home-photo {
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
+.bio-photo {
+    width: 200px;
+    height: auto;
+    border-radius: 16px;
     object-fit: cover;
-    box-shadow: 0 4px 10px rgba(0, 73, 137, 0.2);
+    flex-shrink: 0;
+    box-shadow: 0 4px 12px rgba(0, 73, 137, 0.2);
 }
 
-.home-blurb {
-    max-width: 500px;
-    text-align: left;
-    color: #004989;
+.bio-text {
+    flex: 1;
+    min-width: 240px;
 }
 
-.home-blurb h1 {
+.bio-text h2 {
     margin-top: 0;
-    font-size: 2em;
-    color: #004989;
+    font-size: 1.8em;
 }
 
-.home-socials {
-    text-align: center;
+.bio-text p {
+    font-size: 1.05em;
+    line-height: 1.6;
+    margin-top: 0.5em;
 }
