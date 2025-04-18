@@ -2,41 +2,42 @@
 layout: default
 title: Home
 ---
+
+<!-- Logo -->
+<div style="text-align: center; margin-top: 2em;">
+  <img src="https://via.placeholder.com/300x100.png?text=MY+LOGO" alt="Site Logo" style="max-width: 300px; height: auto;">
+</div>
+
+<!-- Bio Section -->
 <div class="home-intro">
+  <img src="https://via.placeholder.com/100.png?text=Me" alt="Profile Photo">
+  <div class="home-blurb">
+    <p>
+      Hi, I'm Kathryn — a data and environmental science enthusiast with a love for ecology, bioinformatics, and building beautiful, useful web tools. Welcome to my digital garden.
+    </p>
+  </div>
+</div>
 
-  <!-- Logo -->
-  <img src="/assets/images/logo2.png" alt="Logo" class="home-logo">
+<!-- Mini Card Grid -->
+<h2>Find Me Online</h2>
+<div class="card-grid">
 
-  <!-- Bio section -->
-  <div class="bio-container">
-    <img src="/assets/images/headshot.jpg" alt="Photo of me" class="bio-photo">
-    <div class="bio-text">
-      <h2>Hello, I'm Kathryn!</h2>
-      <p>This website is currently under construction. Check back later for a more polsihed site.</p>
-    </div>
+  <div class="mini-card">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+    <div>LinkedIn</div>
+    <a href="https://linkedin.com" target="_blank">Connect</a>
   </div>
 
-  <!-- Mini Cards -->
-  <div class="card-grid">
+  <div class="mini-card">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
+    <div>GitHub</div>
+    <a href="https://github.com" target="_blank">Follow</a>
+  </div>
 
-    <div class="mini-card">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
-      <div>Connect with me</div>
-      <a href="https://www.linkedin.com/in/kfillman" target="_blank">LinkedIn</a>
-    </div>
-
-    <div class="mini-card">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
-      <div>Check out my code</div>
-      <a href="https://github.com/kfillman" target="_blank">GitHub</a>
-    </div>
-
-    <div class="mini-card">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
-      <div>Follow for updates</div>
-      <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
-    </div>
-
+  <div class="mini-card">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter">
+    <div>Twitter</div>
+    <a href="https://twitter.com" target="_blank">Follow</a>
   </div>
 
 </div>
