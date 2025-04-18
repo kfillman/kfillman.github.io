@@ -15,18 +15,19 @@ title: Home
 
 ## Highlights
 
-<div class="mini-card-grid">
-  <div class="mini-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn icon" />
-    <p><a href="https://linkedin.com/in/kfillman" target="_blank">Connect with me</a></p>
-  </div>
-  <div class="mini-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Bass drawing" />
-    <p>Curretnly learning bass guitar</p>
-  </div>
-  <div class="mini-card">
-    <img src="https://github.com/user-attachments/assets/0a985f47-a031-4bdf-acb0-e952acd70ee8" alt="Photo of Alta Via 1 Hiking" />
-    <p>Avid hiker</p>
-  </div>
-  </div>
+<h2>Connect With Me</h2>
+
+<div class="link-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo">
+  <a href="https://linkedin.com/in/kfillman" target="_blank">LinkedIn</a>
+</div>
+
+<div class="link-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="GitHub logo">
+  <a href="https://github.com/kfillman" target="_blank">GitHub</a>
+</div>
+
+<div class="link-card">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Instagram logo">
+  <a href="https://instagram.com/yourhandle" target="_blank">Instagram</a>
 </div>
