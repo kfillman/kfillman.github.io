@@ -43,7 +43,7 @@ h1, h2, h3 {
     align-items: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden;
-    height: 200px; /* Reduced card height */
+    height: 150px; /* Reduced card height */
 }
 
 .project-card-img {
