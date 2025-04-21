@@ -41,7 +41,7 @@ permalink: /other/
 </div>
 
 <div class="project-card">
-  <img src="activators.JPG" alt="Group photo">
+  <img src="aassets/images/activators.JPG" alt="Group photo">
   <div class="project-content">
     <h3>Activator</h3>
     <p>Student orientation leader for incoming students</p>
