@@ -24,23 +24,7 @@ title: Home
   </div>
 
   <div class="mini-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
-    <div>GitHub</div>
-    <a href="https://github.com/kfillman" target="_blank">Follow</a>
-  </div>
-
-  <div class="mini-card">
-    <img src="" alt="tbd social media">
-    <div>Twitter</div>
-    <a href="" target="_blank">tbd social media</a>
-  </div>
-
-  <div class="mini-card">
-    <div>I'm currently learning to play bass guitar!</div>
-  </div>
-
-  <div class="mini-card">
-    <img src="av1-lake.jpg" alt="tbd social media">
+    <img src="av1_lake.jpg" alt="tbd social media">
     <div>Avid hiker</div>
   </div>
 
