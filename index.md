@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-<!-- Logo -->
-<div style="text-align: center; margin-top: 2em;">
-  <img src="/assets/images/logo2.png" alt="Site Logo" style="max-width: 300px; height: auto;">
-</div>
-
 <!-- Bio Section -->
 <div class="home-intro">
   <img src="/assets/images/headshot.jpg" alt="Profile Photo">
