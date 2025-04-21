@@ -24,8 +24,13 @@ title: Home
   </div>
 
   <div class="mini-card">
-    <img src="av1_lake.jpg" alt="tbd social media">
+    <img src="assets/images/av1-hiking.JPEG" alt="tbd social media">
     <div>Avid hiker</div>
+  </div>
+  
+  <div class="mini-card">
+    <img src="assets/images/grad.jpg" alt="tbd social media">
+    <div>Recent grad</div>
   </div>
 
 </div>
