@@ -41,8 +41,7 @@ permalink: /projects/
     <p>Taught a 1000-level biology lab with a specialized section on bioinformatics</p>
     <p>Developed materials and taught an introductory biology lab focusing on a range of topics and lab skills, but focused primarily on bioinformatics.</p>
     <p>Assisted students in analyzing human microbiome sequencing data using R, Linux, and the Minnesota Supercomputing Institute high performance computing (HPC) environment.</p>
-      <p>Provided troubleshooting support for students’ code and computational workflows.
-Oversaw laboratory environment to ensure student safety and participation.</p>
+      <p>Provided troubleshooting support for students’ code and computational workflows. Oversaw laboratory environment to ensure student safety and participation.</p>
   </div>
 </div>
 
