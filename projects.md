@@ -7,7 +7,7 @@ permalink: /projects/
 # Tech Stack
 
 <div class="project-card">
-  <img src="/assets/images/umn.jpg" alt="University of Minnesota Statue">
+  <img src="/assets/M&G_pic.jpg" alt="University of Minnesota Statue">
   <div class="project-content">
     <h3>Proficiencies</h3>
     <p>R, Python, Jupyter Notebooks, SQL, SAS, HTML, Linux and HPC environments, SLURM, MATLAB, JMP, GitHub, Overleaf, ESRI Suite (ArcGIS), QGIS, Tableau, PowerBI, Salesforce, Excel and VBA, Snowflake</p>
