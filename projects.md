@@ -7,7 +7,7 @@ permalink: /projects/
 # Tech Stack
 
 <div class="project-card">
-  <img src="/assets/M&G_pic.jpg" alt="University of Minnesota Statue">
+  <img src="/assets/images/M&G_pic.jpg" alt="Headshot">
   <div class="project-content">
     <h3>Proficiencies</h3>
     <p>R, Python, Jupyter Notebooks, SQL, SAS, HTML, Linux and HPC environments, SLURM, MATLAB, JMP, GitHub, Overleaf, ESRI Suite (ArcGIS), QGIS, Tableau, PowerBI, Salesforce, Excel and VBA, Snowflake</p>
@@ -26,7 +26,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="https://via.placeholder.com/300x200?text=Project+2" alt="Project 2 Image">
+  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
   <div class="project-content">
     <h2>Graduate Teaching Assistant</h2>
     <p>Taught a 1000-level biology lab with a specialized section on bioinformatics</p>
@@ -46,7 +46,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Project Screenshot">
+  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
   <div class="project-content">
     <h3>Personal Microbiome Analysis</h3>
     <p>Identified impact of alchohol and frozen food consumption on the microbiome.</p>
@@ -55,7 +55,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img class="project-image" src="https://github.com/user-attachments/assets/e0461123-9b3f-4db3-b06d-3a1b8bf71526" alt="image">
+  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
   <div class="project-content">
     <h2 class="project-title">Marketing Intern</h2>
     <p class="project-description">Marketing Intern for a continuing education program aimed at retirees.</p>
