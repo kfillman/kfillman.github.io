@@ -130,7 +130,7 @@ Generated data and graphs using MATLAB. Learned and applied Overleaf syntax to c
   <img src="/assets/images/ec_grad_pic.jpg" alt="Eckerd College Sign">
   <div class="project-content">
     <h3>Eckerd College</h3>
-    <p>B.A. in Biology with a Data Science minor</p>
+    <p>B.A. in Biology with a minor in Data Science</p>
   </div>
 </div>
 
@@ -147,7 +147,7 @@ Generated data and graphs using MATLAB. Learned and applied Overleaf syntax to c
 </div>
 
 <div class="project-card">
-  <img src="" alt="Project Screenshot">
+  <img src="/assets/images/rps_game.jpg" alt="Project Screenshot">
   <div class="project-content">
     <h3>Rock Paper Scissors game</h3>
     <p>A classic game in computer form.</p>
