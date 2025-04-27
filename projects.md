@@ -94,7 +94,7 @@ permalink: /projects/
 # Fun Projects
 
 <div class="project-card">
-  <img src="" alt="Project Screenshot">
+  <img src="/assets/images/OP_Bounties.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>One Piece Character Appearance Predictions</h3>
     <p>Attempting to predict the episode a One Piece character will appear in the anime based on the chapter they appear in the manga.</p>
