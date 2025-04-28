@@ -7,7 +7,7 @@ permalink: /other/
 # Other Work
 
 <div class="project-card">
-  <img src="assets/images/av1_view.jpg" alt="Placeholder image">
+  <img src="/assets/images/av1_view.jpg" alt="Placeholder image">
   <div class="project-content">
     <h3>Geneology</h3>
     <p>Complining my family's history for perpetuity</p>
@@ -24,7 +24,7 @@ permalink: /other/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/av1-hiking.JPEG" alt="Placeholder image">
+  <img src="/assets/images/av1-hiking.JPEG" alt="Placeholder image">
   <div class="project-content">
     <h3>GIRS</h3>
     <p>Project to establish a research station on a remote island in the Phillipines.</p>
@@ -41,7 +41,7 @@ permalink: /other/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/activators.JPG" alt="Group photo">
+  <img src="/assets/images/activators.JPG" alt="Group photo">
   <div class="project-content">
     <h3>Activator</h3>
     <p>Student orientation leader for incoming students</p>
@@ -58,7 +58,7 @@ permalink: /other/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/empty_bowls.jpg" alt="Group photo">
+  <img src="/assets/images/empty_bowls.jpg" alt="Group photo">
   <div class="project-content">
     <h3>Student PIRG Project Coordinator</h3>
     <p>Interned with Florida Student PIRG to organize and run an event bringing awareness of hunger and homelessness in the St. Petersburg area. Contacted and arranged donations for event including food and ceramics for raffle.</p>
@@ -66,7 +66,7 @@ permalink: /other/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/KathMel.jpg" alt="Group photo">
+  <img src="/assets/images/KathMel.jpg" alt="Group photo">
   <div class="project-content">
     <h3>LGBTGQIA+ History Educator</h3>
     <p>Designed and presented yearly history lesson (2018-2022) to high schoolers about LGBTQIA+ identities and history. Also worked with health teachers to create more inclusive curriculum.</p>
@@ -74,7 +74,7 @@ permalink: /other/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/DF_mural.jpg" alt="Group photo">
+  <img src="/assets/images/DF_mural.jpg" alt="Group photo">
   <div class="project-content">
     <h3>Muralist</h3>
     <p>Won contest hosted by Village of Deerfield to pick 2 muralists whose work would be put onto a public wall. Contestants had to submit thier work and give an artist statement at town hall. The mural was up for two years.</p>
