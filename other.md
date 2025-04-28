@@ -58,6 +58,14 @@ permalink: /other/
 </div>
 
 <div class="project-card">
+  <img src="aassets/images/empty_bowls.jpg" alt="Group photo">
+  <div class="project-content">
+    <h3>Student PIRG Project Coordinator</h3>
+    <p>Interned with Florida Student PIRG to organize and run an event bringing awareness of hunger and homelessness in the St. Petersburg area. Contacted and arranged donations for event including food and ceramics for raffle.</p>
+  </div>
+</div>
+
+<div class="project-card">
   <img src="aassets/images/activators.JPG" alt="Group photo">
   <div class="project-content">
     <h3>LGBTGQIA+ History Educator</h3>
