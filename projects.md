@@ -124,7 +124,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="/assets/images/CDiff_poster.jpg" alt="Research Poster">
+  <img src="/assets/images/CDiff_poster.png" alt="Research Poster">
   <div class="project-content">
     <h2 class="project-title">Mathematics Research Assistant</h2>
     <p class="project-description">Aided in design and testing of a new mathematical model for C. difficile transmission.</p>
@@ -167,7 +167,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="/assets/images/whale_shark.jpg" alt="Placeholder image">
+  <img src="/assets/images/whale_shark.JPG" alt="Placeholder image">
   <div class="project-content">
     <h2 class="project-title">Shedd Aquarium High School Research</h2>
     <p class="project-description">High school students were interviewed and selected for trips providing field research experience. I participated in both the marine biology and lake ecology trips.</p>
