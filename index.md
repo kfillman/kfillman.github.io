@@ -13,24 +13,22 @@ title: Home
   </div>
 </div>
 
-<!-- Mini Card Grid -->
 <h2>Find Me Online</h2>
 <div class="card-grid">
 
-  <div class="mini-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
-    <div>LinkedIn</div>
-    <a href="https://linkedin.com/in/kfillman" target="_blank">Connect</a>
-  </div>
+  <a class="mini-card" href="https://linkedin.com/in/kfillman" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo">
+    <div class="mini-card-text">Connect with me</div>
+  </a>
 
-  <div class="mini-card">
-    <img src="assets/images/hiking.JPG" alt="photo of me hiking">
-    <div>Avid hiker</div>
+  <div class="mini-card-static">
+    <img src="assets/images/hiking.JPG" alt="hiking photo">
+    <div class="mini-card-text">Avid hiker</div>
   </div>
   
-  <div class="mini-card">
-    <img src="assets/images/grad.JPG" alt="graduation day image">
-    <div>Recent grad</div>
+  <div class="mini-card-static">
+    <img src="assets/images/grad.JPG" alt="Graduation day photo">
+    <div class="mini-card-text">Recent grad</div>
   </div>
-
+  
 </div>
