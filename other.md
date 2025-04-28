@@ -7,7 +7,7 @@ permalink: /other/
 # Other Work
 
 <div class="project-card">
-  <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="Eckerd College Sign">
+  <img src="assets/images/av1_view.jpg" alt="Placeholder image">
   <div class="project-content">
     <h3>Geneology</h3>
     <p>Complining my family's history for perpetuity</p>
@@ -24,7 +24,7 @@ permalink: /other/
 </div>
 
 <div class="project-card">
-  <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="Eckerd College Sign">
+  <img src="assets/images/av1_lake.jpg" alt="Placeholder image">
   <div class="project-content">
     <h3>GIRS</h3>
     <p>Project to establish a research station on a remote island in the Phillipines.</p>
@@ -54,14 +54,6 @@ permalink: /other/
     <span class="close">&times;</span>
     <h2>Activator</h2>
     <p>Eckerd College boasts a month-long orientation for incoming students. This month focuses on building community, learning the campus, and creating lasting memories. Alongside attending a first-year seminar, students are led in a variety of community-orinted activities. Activators are tasked with event coordination and execution, student participation, and overseeing academic lectures.</p>
-  </div>
-</div>
-
-<div class="project-card">
-  <img src="aassets/images/activators.JPG" alt="Group photo">
-  <div class="project-content">
-    <h3>Student PIRG Project Coordinator</h3>
-    <p>Interned with Florida Student PIRG to organize and run an event bringing awareness of hunger and homelessness in the St. Petersburg area. Contacted and arranged donations for event including food and ceramics for raffle.</p>
   </div>
 </div>
 
