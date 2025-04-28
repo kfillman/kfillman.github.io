@@ -42,7 +42,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="/assets/images/matrix_background.jpg" alt="Placeholder image">
   <div class="project-content">
     <h2>Graduate Teaching Assistant</h2>
     <p>Taught a 1000-level biology lab with a specialized section on bioinformatics</p>
@@ -62,7 +62,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/PersonalMicrobiomePaper.png" alt="Project Screenshot">
+  <img src="/assets/images/PersonalMicrobiomePaper.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Personal Microbiome Analysis</h3>
     <p>Identified impact of alchohol and frozen food consumption on the microbiome.</p>
@@ -71,7 +71,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/MusicClassifierPresentation.png" alt="Project Screenshot">
+  <img src="/assets/images/MusicClassifierPresentation.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Music Genre Classifier</h3>
     <p>Aimed to find if it was possible to classify songs, based on values provided in a dataset, by genre. While this was not possible, we instead create new, quantifiable genres for music.</p>
@@ -80,7 +80,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="/assets/images/matrix_background.jpg" alt="Placeholder image">
   <div class="project-content">
     <h3>Student Performance Predictions</h3>
     <p>Data analysis and machine learning of student demographics and their effect on GPA.</p>
@@ -89,7 +89,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="/assets/images/matrix_background.jpg" alt="Placeholder image">
   <div class="project-content">
     <h3>Chocolate Sales Analysis</h3>
     <p>Exploratory data analysis of a chocolate sales dataset using python.</p>
@@ -124,7 +124,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/CDiff_poster.jpg" alt="Research Poster">
+  <img src="/assets/images/CDiff_poster.jpg" alt="Research Poster">
   <div class="project-content">
     <h2 class="project-title">Mathematics Research Assistant</h2>
     <p class="project-description">Aided in design and testing of a new mathematical model for C. difficile transmission.</p>
@@ -141,7 +141,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/aspec_website.png" alt="Website screenshot">
+  <img src="/assets/images/aspec_website.png" alt="Website screenshot">
   <div class="project-content">
     <h2 class="project-title">Marketing Intern</h2>
     <p class="project-description">Marketing Intern for a continuing education program aimed at retirees.</p>
@@ -159,7 +159,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/rainbow_run.jpg" alt="Placeholder image">
+  <img src="/assets/images/rainbow_run.jpg" alt="Placeholder image">
   <div class="project-content">
     <h2 class="project-title">Data Entry Volunteer</h2>
     <p class="project-description">Collected turtles of various ages, sizes, and types in river while snorkeling. Entered data regarding turtle PITT tags and measurements into Excel. Calculated river turtle size, weight, and exterior appearance data from source documents.</p>
@@ -167,7 +167,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/whale_shark.jpg" alt="Placeholder image">
+  <img src="/assets/images/whale_shark.jpg" alt="Placeholder image">
   <div class="project-content">
     <h2 class="project-title">Shedd Aquarium High School Research</h2>
     <p class="project-description">High school students were interviewed and selected for trips providing field research experience. I participated in both the marine biology and lake ecology trips.</p>
