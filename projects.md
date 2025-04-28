@@ -54,7 +54,6 @@ permalink: /projects/
   <div class="modal-content">
     <span class="close">&times;</span>
     <h2>Graduate Teaching Assistant</h2>
-    <p>Taught a 1000-level biology lab with a specialized section on bioinformatics</p>
     <p>Developed materials and taught an introductory biology lab focusing on a range of topics and lab skills, but focused primarily on bioinformatics.</p>
     <p>Assisted students in analyzing human microbiome sequencing data using R, Linux, and the Minnesota Supercomputing Institute high performance computing (HPC) environment.</p>
       <p>Provided troubleshooting support for students’ code and computational workflows. Oversaw laboratory environment to ensure student safety and participation.</p>
@@ -80,7 +79,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="/assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="/assets/images/GPAPredictions.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Student Performance Predictions</h3>
     <p>Data analysis and machine learning of student demographics and their effect on GPA.</p>
@@ -89,7 +88,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="/assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="/assets/images/ChocolateSales.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Chocolate Sales Analysis</h3>
     <p>Exploratory data analysis of a chocolate sales dataset using python.</p>
