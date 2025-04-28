@@ -68,7 +68,7 @@ permalink: /other/
 <div class="project-card">
   <img src="/assets/images/KathMel.jpg" alt="Group photo">
   <div class="project-content">
-    <h3>LGBTGQIA+ History Educator</h3>
+    <h3>LGBTQIA+ History Educator</h3>
     <p>Designed and presented yearly history lesson (2018-2022) to high schoolers about LGBTQIA+ identities and history. Also worked with health teachers to create more inclusive curriculum.</p>
   </div>
 </div>
