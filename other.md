@@ -88,11 +88,3 @@ permalink: /other/
     <p>Since 2016, I have been heavily involved in theatre. I won the 'bit harder' award at my highschool on my second show for my work on costumes. I then continued my time in theatre within the sound booth, where I went to nationals with the 2017 IL Allstate production. I now continue my love for theatre through TYA and community shows.</p>
   </div>
 </div>
-
-<div class="project-card">
-  <img src="/assets/images/tabletopgames.jpg" alt="Group photo">
-  <div class="project-content">
-    <h3>TableTop Gaming</h3>
-    <p>For a long time, I have been a fan of board games. Table top games expand this category, using oftentimes complex mechanics in unique situations. Each game is different and provides a strategy-driven challenge. I play with varrying groups regularly.</p>
-  </div>
-</div>
