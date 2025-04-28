@@ -66,9 +66,17 @@ permalink: /other/
 </div>
 
 <div class="project-card">
-  <img src="aassets/images/activators.JPG" alt="Group photo">
+  <img src="aassets/images/KathMel.jpg" alt="Group photo">
   <div class="project-content">
     <h3>LGBTGQIA+ History Educator</h3>
     <p>Designed and presented yearly history lesson (2018-2022) to high schoolers about LGBTQIA+ identities and history. Also worked with health teachers to create more inclusive curriculum.</p>
+  </div>
+</div>
+
+<div class="project-card">
+  <img src="aassets/images/DF_mural.jpg" alt="Group photo">
+  <div class="project-content">
+    <h3>Muralist</h3>
+    <p>Won contest hosted by Village of Deerfield to pick 2 muralists whose work would be put onto a public wall. Contestants had to submit thier work and give an artist statement at town hall. The mural was up for two years.</p>
   </div>
 </div>
