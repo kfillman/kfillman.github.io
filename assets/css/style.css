@@ -197,7 +197,7 @@ nav {
     height: 240px;
 }
 
-.mini-card:hover {
+.mini-card:hover, .mini-card-static:hover {
     transform: translateY(-5px);
     box-shadow: 0 6px 12px rgba(0, 73, 137, 0.25);
 }
