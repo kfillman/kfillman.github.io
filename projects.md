@@ -4,13 +4,29 @@ title: Projects
 permalink: /projects/
 ---
 
-# Tech Stack
+# Competencies
 
 <div class="project-card">
   <img src="/assets/images/M&G_pic.jpg" alt="Headshot">
   <div class="project-content">
-    <h3>Proficiencies</h3>
+    <h3>Tech Stack</h3>
     <p>R, Python, Jupyter Notebooks, SQL, SAS, HTML, Linux and HPC environments, SLURM, MATLAB, JMP, GitHub, Overleaf, ESRI Suite (ArcGIS), QGIS, Tableau, PowerBI, Salesforce, Excel and VBA, Snowflake</p>
+  </div>
+</div>
+
+<div class="project-card">
+  <img src="/assets/images/umn.jpg" alt="University of Minnesota Statue">
+  <div class="project-content">
+    <h3>University of Minnesota</h3>
+    <p>M.S. Bioinformatics and Computational Biology</p>
+  </div>
+</div>
+
+<div class="project-card">
+  <img src="/assets/images/ec_grad_pic.jpg" alt="Eckerd College Sign">
+  <div class="project-content">
+    <h3>Eckerd College</h3>
+    <p>B.A. in Biology with a minor in Data Science</p>
   </div>
 </div>
 
@@ -155,44 +171,5 @@ permalink: /projects/
   <div class="project-content">
     <h2 class="project-title">Shedd Aquarium High School Research</h2>
     <p class="project-description">High school students were interviewed and selected for trips providing field research experience. I participated in both the marine biology and lake ecology trips.</p>
-  </div>
-</div>
-
-# Education
-
-<div class="project-card">
-  <img src="/assets/images/umn.jpg" alt="University of Minnesota Statue">
-  <div class="project-content">
-    <h3>University of Minnesota</h3>
-    <p>M.S. Bioinformatics and Computational Biology</p>
-  </div>
-</div>
-
-<div class="project-card">
-  <img src="/assets/images/ec_grad_pic.jpg" alt="Eckerd College Sign">
-  <div class="project-content">
-    <h3>Eckerd College</h3>
-    <p>B.A. in Biology with a minor in Data Science</p>
-  </div>
-</div>
-
-
-# Fun Projects
-
-<div class="project-card">
-  <img src="/assets/images/OP_Bounties.png" alt="Project Screenshot">
-  <div class="project-content">
-    <h3>One Piece Character Appearance Predictions</h3>
-    <p>Predicting the episode a One Piece character will appear in the anime based on the chapter they appear in the manga using machine learning.</p>
-    <a href="https://github.com/kfillman/OP_Character_Appearance_Predictions" target="_blank">Github Repository</a>
-  </div>
-</div>
-
-<div class="project-card">
-  <img src="/assets/images/rps_game.png" alt="Project Screenshot">
-  <div class="project-content">
-    <h3>Rock Paper Scissors game</h3>
-    <p>A classic game in computer form.</p>
-    <a href="https://github.com/kfillman/Misc_Projects/blob/main/RockPaperScissors%20Game.py" target="_blank">Github Repository</a>
   </div>
 </div>
