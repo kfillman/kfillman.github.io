@@ -7,7 +7,7 @@ permalink: /other/
 # Other Work
 
 <div class="project-card">
-  <img src="/assets/images/av1_view.jpg" alt="Placeholder image">
+  <img src="/assets/images/familytree.png" alt="Ancestory family tree">
   <div class="project-content">
     <h3>Geneology</h3>
     <p>Complining my family's history for perpetuity</p>
