@@ -166,7 +166,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="/assets/images/whale_shark.JPG" alt="Placeholder image">
+  <img src="/assets/images/HSLE.jpg" alt="Placeholder image">
   <div class="project-content">
     <h2 class="project-title">Shedd Aquarium High School Research</h2>
     <p class="project-description">High school students were interviewed and selected for trips providing field research experience. I participated in both the marine biology and lake ecology trips.</p>
