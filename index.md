@@ -7,7 +7,7 @@ title: Home
 <div class="home-intro">
   <img src="/assets/images/headshot.jpg" alt="Profile Photo">
   <div class="home-blurb">
-    <p>Hi, I'm Kathryn — Welcome to my website. I am a data scientist and analyst with a strong foundation of skills and experience. Here, you’ll find highlights of my professional work and volunteer efforts, both driven by a commitment to making a meaningful impact in my field and community.</p>
+    <p>Hi, I'm Kathryn — a data scientist and analyst with a passion for turning complex information into clear, actionable insights. I have a Master’s degree in Bioinformatics and Computational Biology and hands-on experience building machine learning models, designing interactive dashboards, and conducting large-scale analytics projects. Skilled in Python, R, SQL, and visualization tools like Tableau and PowerBI, I enjoy working at the intersection of data, research, and real-world impact. Whether visualizing trends or developing machine learning models, I’m dedicated to making data approachable, actionable, and impactful.</p>
   </div>
 </div>
 
