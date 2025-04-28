@@ -10,7 +10,7 @@ permalink: /other/
   <img src="/assets/images/familytree.png" alt="Ancestory family tree">
   <div class="project-content">
     <h3>Geneology</h3>
-    <p>Complining my family's history for perpetuity</p>
+    <p>Compiling my family's history for perpetuity</p>
     <button class="card-button">More Info</button>
   </div>
 </div>
