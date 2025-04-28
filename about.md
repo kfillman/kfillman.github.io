@@ -25,3 +25,19 @@ permalink: /about/
 <p><i>I didn’t grow up wanting to be a scientist. I liked the concept of solving life’s mysteries, but many of the science classes I’d taken were memorization-based with little application. I had no interest in the importance of understanding photosynthesis when there was no discernible reason for its usage. One day, however, my high school biology teacher had our class do an activity: using the known components of DNA and their shapes, find the molecule’s three-dimensional structure. Having seen the structure of DNA on posters, looking through textbooks, and in Jurassic Park, I knew this was a rather quick exercise. We had small cut-outs of nucleotides, sugars, and phosphates that would eventually fit together, be taped, and somehow contorted into a double helix shape. Looking over the pieces, I realized I was looking at a puzzle. In that one second, the trajectory of my life changed. Science was no longer a bland concept that required memorization, but a number of complex connections between organisms, atoms, and their environment. For the first time, I realized these faceless facts of memorization were laying the foundation for understanding and solving the problems that lay ahead. I went home that day and began to search for extracurricular programs that would allow me to explore this newfound interest. I found two programs from the Shedd Aquarium that were specifically for highschoolers. One program was a lake ecology trip that entailed creating a proof of concept and testing it over a week-long period on a camping trip, as well as contributing to a decade-long study on frog microbiomes. The second program was a marine biology trip that aimed to introduce students to different types of data collection at sea. I participated in both of these programs in the two summers following that experience. From these experiences I realized that I had far more interest in our data analysis than my peers. I felt it was the axiom of our time, namely, finally finding out if our experiments had worked.  While my young peers seemed to feel it was the boring, necessary requirement of our time, to me, the analysis was even more fascinating than the data collection itself.</i></p>
 <p><i>Growing up, I was always playing logic and card games. My family loved and encouraged this, as I often completed logic puzzles with my dad on the family computer. My favorite were cross logic games, where given a set of clues, one needs to match three or more variables to each other. This taught me to consider the consequences of multiple choices in succession of each other. In other words, I was thinking multiple steps ahead. This skill became integral to my first year of college, when I became a key asset to a student group looking to establish a remote research station outside of the country. I was put in charge of logistics and worked on items such as cost analysis, plans for unfavorable eventualities, and cultural teachings for the team. With very little to no experience in these roles, I eagerly accepted them.</i></p>
 <p>- Graduate personal statement (2022)</p>
+
+# Personal Interests
+<div class="card-grid">
+
+  <div class="mini-card-static">
+    <img src="/assets/images/tabletopgames.jpg" alt="gaming pic">
+    <div class="mini-card-text">TableTop Gaming</div>
+  </div>
+  
+  <div class="mini-card-static">
+    <img src="" alt="no_photo_yet">
+    <div class="mini-card-text">Learning bass guitar</div>
+  </div>
+
+  </div>
+</div>
