@@ -8,8 +8,7 @@ title: Home
   <img src="/assets/images/headshot.jpg" alt="Profile Photo">
   <div class="home-blurb">
     <p>
-      Hi, I'm Kathryn — I'll have more to say at a later date. At the moment, this site is under construction.
-    </p>
+      Hi, I'm Kathryn — I'm a data scientist & analyst currently seeking employment.</p>
   </div>
 </div>
 
