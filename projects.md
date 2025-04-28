@@ -107,10 +107,18 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="assets/images/rainbow_run.jpg" alt="Placeholder image">
   <div class="project-content">
     <h2 class="project-title">Data Entry Volunteer</h2>
     <p class="project-description">Collected turtles of various ages, sizes, and types in river while snorkeling. Entered data regarding turtle PITT tags and measurements into Excel. Calculated river turtle size, weight, and exterior appearance data from source documents.</p>
+  </div>
+</div>
+
+<div class="project-card">
+  <img src="assets/images/whale_shark.jpg" alt="Placeholder image">
+  <div class="project-content">
+    <h2 class="project-title">Shedd Aquarium High School Research</h2>
+    <p class="project-description">High school students were interviewed and selected for trips providing field research experience. I participated in both the marine biology and lake ecology trips.</p>
   </div>
 </div>
 
@@ -145,7 +153,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="/assets/images/rps_game.jpg" alt="Project Screenshot">
+  <img src="/assets/images/rps_game.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Rock Paper Scissors game</h3>
     <p>A classic game in computer form.</p>
