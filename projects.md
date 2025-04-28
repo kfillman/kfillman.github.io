@@ -55,6 +55,33 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <div class="project-content">
+    <h3>Music Genre Classifier</h3>
+    <p>Aimed to find if it was possible to classify songs, based on values provided in a dataset, by genre. While this was not possible, we instead create new, quantifiable genres for music.</p>
+    <a href="https://github.com/kfillman/Music_Genre_Classifier" target="_blank">Github Repository</a>
+  </div>
+</div>
+
+<div class="project-card">
+  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <div class="project-content">
+    <h3>Student Performance Predictions</h3>
+    <p>Data analysis and machine learning of student demographics and their effect on GPA.</p>
+    <a href="https://github.com/kfillman/Student_Performance_Predictions?tab=readme-ov-file" target="_blank">Github Repository</a>
+  </div>
+</div>
+
+<div class="project-card">
+  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <div class="project-content">
+    <h3>Chocolate Sales Analysis</h3>
+    <p>Exploratory data analysis of a chocolate sales dataset using python.</p>
+    <a href="https://www.kaggle.com/code/kfillman/chocolate-sales-analysis#Chocolate-Sales-EDA" target="_blank">Kaggle Link</a>
+  </div>
+</div>
+
+<div class="project-card">
   <img src="https://github.com/user-attachments/assets/3800b0d7-7c02-4dbf-8be4-83e647882de8" alt="Eckerd College Sign">
   <div class="project-content">
     <h3>Imagining Justice Service Project</h3>
@@ -147,7 +174,7 @@ permalink: /projects/
   <img src="/assets/images/OP_Bounties.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>One Piece Character Appearance Predictions</h3>
-    <p>Attempting to predict the episode a One Piece character will appear in the anime based on the chapter they appear in the manga.</p>
+    <p>Predicting the episode a One Piece character will appear in the anime based on the chapter they appear in the manga using machine learning.</p>
     <a href="https://github.com/kfillman/OP_Character_Appearance_Predictions" target="_blank">Github Repository</a>
   </div>
 </div>
