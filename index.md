@@ -11,7 +11,7 @@ title: Home
   </div>
 </div>
 
-<h2>Find Me Online</h2>
+<h2>About</h2>
 <div class="card-grid">
 
   <a class="mini-card" href="https://linkedin.com/in/kfillman" target="_blank">
