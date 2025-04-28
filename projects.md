@@ -72,7 +72,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="assets/images/CDiff_poster.jpg" alt="Research Poster">
   <div class="project-content">
     <h2 class="project-title">Mathematics Research Assistant</h2>
     <p class="project-description">Aided in design and testing of a new mathematical model for C. difficile transmission.</p>
@@ -84,7 +84,6 @@ permalink: /projects/
   <div class="modal-content">
     <span class="close">&times;</span>
     <h2>Mathematics Research Assistant</h2>
-    <img src="assets/images/CDiff_poster.jpg" alt="Research Poster">
     <p>Augmented a previous model to include healthcare workers as disease vectors.Generated data and graphs using MATLAB. Learned and applied Overleaf syntax to create documents containing mathematical symbols. Won best student poster presentation at the 2022 Florida Section Of The Mathematical Association of America and the Florida Two-Year College Mathematics Association</p>
   </div>
 </div>
