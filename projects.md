@@ -46,7 +46,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="assets/images/PersonalMicrobiomePaper.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Personal Microbiome Analysis</h3>
     <p>Identified impact of alchohol and frozen food consumption on the microbiome.</p>
@@ -55,7 +55,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="assets/images/MusicClassifierPresentation.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Music Genre Classifier</h3>
     <p>Aimed to find if it was possible to classify songs, based on values provided in a dataset, by genre. While this was not possible, we instead create new, quantifiable genres for music.</p>
@@ -99,6 +99,15 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+  <img src="/assets/images/OP_Bounties.png" alt="Project Screenshot">
+  <div class="project-content">
+    <h3>One Piece Character Appearance Predictions</h3>
+    <p>Predicting the episode a One Piece character will appear in the anime based on the chapter they appear in the manga using machine learning.</p>
+    <a href="https://github.com/kfillman/OP_Character_Appearance_Predictions" target="_blank">Github Repository</a>
+  </div>
+</div>
+
+<div class="project-card">
   <img src="assets/images/CDiff_poster.jpg" alt="Research Poster">
   <div class="project-content">
     <h2 class="project-title">Mathematics Research Assistant</h2>
@@ -116,7 +125,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="assets/images/matrix_background.jpg" alt="Placeholder image">
+  <img src="assets/images/aspec_website.png" alt="Website screenshot">
   <div class="project-content">
     <h2 class="project-title">Marketing Intern</h2>
     <p class="project-description">Marketing Intern for a continuing education program aimed at retirees.</p>
