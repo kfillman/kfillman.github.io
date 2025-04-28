@@ -5,19 +5,15 @@ permalink: /about/
 ---
 # About me
 
-<p>It is very hard to encompass a person in a few word. In fact, I would argue it does a disservice to anyone's personhood to do so. However, saying that makes me sound pretentious and uncaring for the pleasentires required when meeting new people. In the spirit of such niceties, I present a collection of writings, thoughts, and various events that I feel represent my person.</p>
-
-#### Thoughts
-
-<p>I belive my greatest strenght is my curiosity. I am eager to learn and find myself always asking questions. I am unafriad to try and find failure to be a great teacher. Below are excerpts from my undergraduate personal statement.</p>
+<p>I belive my greatest strenght is my curiosity. I am eager to learn and find myself always asking questions. I am unafriad to try and find failure to be a great teacher. Although I've tried to summarize myself many times, I feel the following experts from a selection of personal statements do an exemplary job.</p>
 
 <p>One thing I'm rather proud of is a peice of feedback from my Master's defence: "You have thought through every aspect of this quite thouroughly". I like to not only be prepared, but also able to justify desicions made. I find this an imnportant skill within my professional life.</p>
 
-#### Personal Statement Excerpts
+# Personal Statement Excerpts
 
 <p><i>"My high school Biology professor gave us a challenge, using the known components of DNA we had to find the structure. While it was an oversimplification of the actual problems faced by researchers, it challenged us to look at the problem in many different ways. As a lover of puzzles, this has always stuck with me. It made me realize that science (and life) is a puzzle we continue to solve.</i></p>
 <p><i>Growing up, I was always fascinated with things in the biological sciences. I played with microscopes, read criminology textbooks, and wondered at animals and their habitats. As I got older, my interests became more specific. Mainly, I found I was interested in the environment and how animals interact with it. Throughout my time learning about such topics, I realized how intertwined technology and science has become, prompting my interest in bioinformatics. My classes in programming reminded me much of a puzzle; the intended outcome is known but the pieces needed are not. This is what data in the modern world is; we have the peices of (sometimes many) puzzles mixed together, just waiting to be made sense of. Being able to pursue and solve complex challenges is what motivates me</i></p>
-<p>This passion for puzzles and discovery naturally led me to the world of data science and analytics. My academic background in biology and bioinformatics gave me the tools to approach complex systems—from ecological interactions to genomic datasets—with curiosity and precision. As I explored programming and statistical analysis, I saw how the same problem-solving mindset applied not only to scientific research but also to the business world. In marketing analytics and data science, I’ve found a space where data tells stories, reveals patterns, and drives decisions. Whether interpreting consumer behavior or decoding biological systems, I’m drawn to the challenge of making sense of complexity and using data to uncover insights that create meaningful impact."</i></p>
+<p><i>This passion for puzzles and discovery naturally led me to the world of data science and analytics. My academic background in biology and bioinformatics gave me the tools to approach complex systems—from ecological interactions to genomic datasets—with curiosity and precision. As I explored programming and statistical analysis, I saw how the same problem-solving mindset applied not only to scientific research but also to the business world. In marketing analytics and data science, I’ve found a space where data tells stories, reveals patterns, and drives decisions. Whether interpreting consumer behavior or decoding biological systems, I’m drawn to the challenge of making sense of complexity and using data to uncover insights that create meaningful impact."</i></p>
 <p>- Graduate personal statement for UMN (2022)</p>
 
 <p><i>"I seek fear and the discomfort it brings, daily. It starts small: talking to new people, learning a new skill, or even visiting a new place. None of these things are dangerous per say, but they were once outside of my comfort zone. I’ve come to realize life begins outside of the comfort zone.</p>
