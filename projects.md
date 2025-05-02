@@ -79,7 +79,7 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
-  <img src="/assets/images/biostats_paper.jpg" alt="Project Screenshot">
+  <img src="/assets/images/biostats_paper.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Biostatistical Analysis</h3>
     <p>Statistical analysis on a variety of public health topics.</p>
