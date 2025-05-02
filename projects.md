@@ -42,6 +42,15 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+  <img src="/assets/images/digital_pathology.png" alt="Project Screenshot">
+  <div class="project-content">
+    <h3>Ditgital Pathology</h3>
+    <p>Utilized Python Tensorflow and Google Colab to create machine learning model able to differentiate melanoma and benign nevus.</p>
+    <a href="" target="_blank">Github Repository</a>
+  </div>
+</div>
+
+<div class="project-card">
   <img src="/assets/images/matrix_background.jpg" alt="Placeholder image">
   <div class="project-content">
     <h2>Graduate Teaching Assistant</h2>
