@@ -10,7 +10,7 @@ permalink: /projects/
   <img src="/assets/images/M&G_pic.jpg" alt="Headshot">
   <div class="project-content">
     <h3>Tech Stack</h3>
-    <p>R, Python, Jupyter Notebooks, SQL, SAS, HTML, Linux and HPC environments, SLURM, MATLAB, JMP, GitHub, Overleaf, ESRI Suite (ArcGIS), QGIS, Tableau, PowerBI, Salesforce, Excel and VBA, Snowflake</p>
+    <p>R, Python, Jupyter Notebooks, SQL, SAS, HTML, Linux and HPC environments, Apache Spark, AWS, SLURM, MATLAB, JMP, GitHub, Overleaf, ESRI Suite (ArcGIS), QGIS, Tableau, PowerBI, Salesforce, Excel and VBA, Snowflake</p>
   </div>
 </div>
 
