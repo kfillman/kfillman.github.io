@@ -70,6 +70,15 @@ permalink: /projects/
 </div>
 
 <div class="project-card">
+  <img src="/assets/images/biostats_paper.jpg" alt="Project Screenshot">
+  <div class="project-content">
+    <h3>Biostatistical Analysis</h3>
+    <p>Statistical analysis on a variety of public health topics.</p>
+    <a href="https://github.com/kfillman/Biostatistics_Homeworks/tree/main/Written%20Analysis" target="_blank">Github Repository</a>
+  </div>
+</div>
+
+<div class="project-card">
   <img src="/assets/images/MusicClassifierPresentation.png" alt="Project Screenshot">
   <div class="project-content">
     <h3>Music Genre Classifier</h3>
@@ -135,7 +144,7 @@ permalink: /projects/
   <div class="modal-content">
     <span class="close">&times;</span>
     <h2>Mathematics Research Assistant</h2>
-    <p>Augmented a previous model to include healthcare workers as disease vectors.Generated data and graphs using MATLAB. Learned and applied Overleaf syntax to create documents containing mathematical symbols. Won best student poster presentation at the 2022 Florida Section Of The Mathematical Association of America and the Florida Two-Year College Mathematics Association</p>
+    <p>Augmented a previous model using differential equations to include healthcare workers as disease vectors. Generated data and graphs using MATLAB and Overleaf. Won best student poster presentation at the 2022 Florida Section Of The Mathematical Association of America and the Florida Two-Year College Mathematics Association</p>
   </div>
 </div>
 
