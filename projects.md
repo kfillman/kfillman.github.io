@@ -33,20 +33,20 @@ permalink: /projects/
 # Experience
 
 <div class="project-card">
+  <img src="/assets/images/digital_pathology.png" alt="Project Screenshot">
+  <div class="project-content">
+    <h3>Ditgital Pathology</h3>
+    <p>Utilized Python Tensorflow and Google Colab to create machine learning model able to differentiate melanoma and benign nevus.</p>
+    <a href="https://github.com/kfillman/Digital-Pathology" target="_blank">Github Repository</a>
+  </div>
+</div>
+
+<div class="project-card">
   <img src="https://github.com/user-attachments/assets/c5637f53-f21a-42cd-bc4c-3a2827b76d2b" alt="Project Screenshot">
   <div class="project-content">
     <h3>HPAI Tracking</h3>
     <p>Traced entrance if HPAI into and within US, identifying monitoring locations that act as early warning signs for US outbreaks.</p>
     <a href="https://github.com/kfillman/IAV_Outbreak_Analysis" target="_blank">Github Repository</a>
-  </div>
-</div>
-
-<div class="project-card">
-  <img src="/assets/images/digital_pathology.png" alt="Project Screenshot">
-  <div class="project-content">
-    <h3>Ditgital Pathology</h3>
-    <p>Utilized Python Tensorflow and Google Colab to create machine learning model able to differentiate melanoma and benign nevus.</p>
-    <a href="" target="_blank">Github Repository</a>
   </div>
 </div>
 
